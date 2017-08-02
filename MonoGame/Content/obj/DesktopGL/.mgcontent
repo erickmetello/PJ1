@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/BallSprite.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/megaman1.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/megaman2.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/megaman3.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/megaman4.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/megaman1b.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-amarelo1.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-amarelo2.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-azul1.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-azul2.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-verde1.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-verde2.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/alien-vermelho.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/fx-blow1.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/fx-blow2.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/fx-blow3.png</File>
+    <File>C:/Users/erick.metello/Desktop/PJ1-MonoGame-master (2)/PJ1-MonoGame-master/MonoGame/Content/fx-blow4.png</File>
+  </SourceFiles>
+</SourceFileCollection>

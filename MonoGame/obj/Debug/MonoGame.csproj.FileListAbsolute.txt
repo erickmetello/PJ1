@@ -1,0 +1,57 @@
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\BallSprite.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman1.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman1b.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman2.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman3.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman4.xnb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.exe
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.pdb
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.exe
+C:\Users\matheus.lessa\Downloads\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.pdb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.exe
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.pdb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-amarelo1.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-amarelo2.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-azul1.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-azul2.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-verde1.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-verde2.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\alien-vermelho.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\BallSprite.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\fx-blow1.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\fx-blow2.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\fx-blow3.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\fx-blow4.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman1.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman1b.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman2.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman3.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\Content\megaman4.xnb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.exe
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.pdb
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\erick.metello\Desktop\PJ1-MonoGame-master (2)\PJ1-MonoGame-master\MonoGame\obj\Debug\MonoGame.csprojResolveAssemblyReference.cache
